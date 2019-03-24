@@ -12,11 +12,11 @@
   },
   "devDependencies": {
     "jest": "^23.6.0",
-    "probot": "^7.5.1",
+    "probot": "^9.0.2",
     "standard": "^10.0.3"
   },
   "peerDependencies": {
-    "probot": "^7.5.1"
+    "probot": "^9.0.2"
   },
   "engines": {
     "node": ">= 8.10.0",
